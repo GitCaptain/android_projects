@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatabaseApp</string>
+    <string name="edit_name">name</string>
+    <string name="edit_surname">surname</string>
+    <string name="add_profile">add profile</string>
+    <string name="show_all">show all profiles</string>
+</resources>
