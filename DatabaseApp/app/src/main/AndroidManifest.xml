@@ -3,6 +3,8 @@
     package="com.example.databaseapp">
 
     <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-feature android:name="android.hardware.camera" android:required="true"/>
+
     <!--
     If you don't provide the <uses-feature> tag,
     then when Google Play sees that your app requests the corresponding permission,
