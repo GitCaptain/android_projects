@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class ReceiveMessageActivity extends Activity {
-
+    //the class is no longer used, so it can be written nonsense.
     String text;
     TextView textView;
 
