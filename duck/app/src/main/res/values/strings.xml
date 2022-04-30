@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Duck</string>
+    <string name="on_pic_duck">it\'s a duck</string>
+    <string name="on_pic_description">(not a real one)</string>
+</resources>

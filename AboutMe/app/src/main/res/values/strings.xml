@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Alexander</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">vere lonk teeeeeeeeeeeeeeeeeeeeeee\n
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeee\n
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee\n
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeee\n
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+    kct\n
+    </string>
+    <string name="what_is_your_nick">what is your nickname ?</string>
+    <string name="done_btn_text">done</string>
+</resources>
